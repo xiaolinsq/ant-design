@@ -53,7 +53,7 @@ class App extends React.Component {
             onChange={this.onCheckAllChange}
             checked={this.state.checkAll}
           >
-            Check all
+            Check all!!!
           </Checkbox>
         </div>
         <br />
